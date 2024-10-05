@@ -2,7 +2,7 @@
   "name": "template",
   "version": "1.0.0",
   "description": "开发模板",
-  "author": "ynw <931708230@qq.com>",
+  "author": "ynw <1556708905@qq.com>",
   "private": true,
   "scripts": {
     "dev": "vue-cli-service serve",
